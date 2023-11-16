@@ -4,3 +4,7 @@ programming diary
 Let's GO
 # 2023-11-14
 Let's GO
+
+# 2023-11-16
+- 108
+- seed: 0.3475011622655162
