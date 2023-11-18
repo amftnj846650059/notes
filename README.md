@@ -13,3 +13,9 @@ Let's GO
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, determine which tasks are the most important and which can be completed later. Then, break down each task into smaller, manageable steps. By planning ahead and staying organized, you can avoid getting lost in code or spending too much time on a particular task.
 
 Additionally, it' s important to stay up-to-date with new programming languages, tools,and techniques. Not only will this help make you a better coder, but it will also keep you from getting left behind in the ever-changing world of technology. Learn from the experiences of others and don't be afraid to ask for help when you need it. Remember, coding is a continuous learning process, so be open to new ideas and always strive to improve.
+
+# 2023-11-18
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques. This means constantly reading blogs, articles, and research papers, attending conferences, workshops, online courses, etc. to gain a deeper understanding of the field.
+
+In addition to staying up to date with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Teamwork is crucial in the world of programming, so being capable of working with a diverse group of people is a must. 
+ - 来自NLP
