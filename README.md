@@ -19,3 +19,8 @@ Additionally, it' s important to stay up-to-date with new programming languages,
 
 In addition to staying up to date with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Teamwork is crucial in the world of programming, so being capable of working with a diverse group of people is a must. 
  - 来自NLP
+
+# 2023-11-19
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. Then, break down larger tasks into smaller, more manageable pieces. By doing this, you can better track your progress and make sure you don't get sidetracked.
+
+Use version control systems, like Git, to keep track of your code and collaborate with others. These systems make it easy to track changes, merge code, fix conflicts,and keep everything organized and up-to-date. Version control also makes it easier to go back and fix mistakes or experiment with new features.
