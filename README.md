@@ -55,3 +55,6 @@ Second, use time management techniques to plan out your day or week. Create a sc
 
 # 2023-11-27
 - "Keep it simple, stupid!"
+
+# 2023-11-28
+- "Today's programming wisdom is to focus on writing clean, maintainable code that can be easily understood and modified by others. This means using clear and descriptive variable names, commenting your code thoroughly, and organizing your code into logical modules or functions. It also means avoiding unnecessary complexity and striving for simplicity whenever possible. By following these principles, you can create code that not only works well today but will also be easier to work with in the future."
