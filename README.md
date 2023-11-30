@@ -61,3 +61,6 @@ Second, use time management techniques to plan out your day or week. Create a sc
 
 # 2023-11-29
 - "Keep it simple, stupid!"
+
+# 2023-11-30
+- "Keep it simple, stupid!"
