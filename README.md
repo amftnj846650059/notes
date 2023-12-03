@@ -72,3 +72,6 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 
 # 2023-12-02
 - "Keep it simple, stupid!"
+
+# 2023-12-03
+- "Keep it simple, stupid!"
