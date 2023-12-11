@@ -100,3 +100,11 @@ This quote reminds us that optimizing code too early in the development process 
 - "Premature optimization is the root of all evil." - Donald Knuth
 
 This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity, harder maintenance, and potential bugs. It's often better to write clean, simple code first and optimize only when necessary, based on performance measurements.
+
+# 2023-12-11
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest industry trends, tools, and programming languages.
+
+To be successful as a programmer, you should also have a deep understanding of computer science principles, such as data structures, algorithms, software engineering, systems architecture, etc. These principles will help you design and develop efficient, scalable, maintainable, secure, testable software systems. 
+ - 了解最新的技术趋势和工具，不断更新自己的知识和技能。
+- 对计算机科学原理有深入的理解，如数据结构、算法、软件工程、系统架构等。这些原理将帮助你设计和开发高效、可扩展、易于维护、安全的软件系统。- 在实际项目中应用所学知识，积累经验。通过阅读优秀的代码、参加编程竞赛、加入开源项目等方式，提高自己的编程水平。 --------
+总之，作为一名程序员，我们应该保持终身学习的态度，不断提高自己的技能和知识水平，以便在这个不断变化的技术领域中取得成功。
