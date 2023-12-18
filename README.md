@@ -134,3 +134,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-12-17
 - "Keep it simple, stupid!"
+
+# 2023-12-18
+- "Keep it simple, stupid!"
