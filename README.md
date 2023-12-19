@@ -137,3 +137,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-12-18
 - "Keep it simple, stupid!"
+
+# 2023-12-19
+- Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means that instead of trying to anticipate all possible future changes or additions to your code, focus on writing clean, simple code that can be easily modified or removed as needed. This approach helps to reduce technical debt and makes it easier to maintain and evolve your codebase over time. Remember, code is more often read than written, so strive to make your code as clear and concise as possible.
