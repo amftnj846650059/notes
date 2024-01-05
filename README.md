@@ -219,3 +219,8 @@ Lastly, "Code is read much more often than it is written." – Robert C. Martin 
 
 To be an effective programmer, you must also be able to work well with others. That means communicating clearly, listening to feedback, giving constructive criticism,and collaborating on projects. Teamwork is essential in any field, but especially in programming, where projects often involve multiple contributors and diverse skill sets. 
  - 来自NLP
+
+# 2024-01-05
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clean, maintainable code first; optimize only when necessary and after profiling. Remember that clarity and simplicity often lead to better performance in the long run." 
+
+In other words, don't waste time trying to optimize code before it's needed or without data to support the need for optimization. It can lead to unnecessary complexity, harder maintenance, and may not even solve the actual bottlenecks in your application's performance. First, ensure your code works correctly and is easy to understand, then optimize where and when it counts.
