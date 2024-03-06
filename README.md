@@ -492,3 +492,10 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 # 2024-03-05
 - "Keep it simple, stupid!"
+
+# 2024-03-06
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented pace, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and the internet of things.
+
+To be successful in the programming field, you should also have a solid foundation in core programming concepts, like data structures, algorithms, software engineering, version control, testing, debugging, etc. By mastering these fundamentals, You will be able to adapt to new technologies and problems more efficiently. 
+ 此外，建立一个强大的个人品牌和广泛的专业网络也是至关重要的。通过参加行业会议、在线论坛和社交媒体平台，与同行建立联系，分享知识和经验。这将有助于您了解行业动态，发现新的职业机会，并在遇到困难时获得支持。
+ 最后，保持耐心和毅力是成功编程的关键。编程可能会很复杂，充满挑战，但通过不断学习和实践，您将能够克服这些困难，成为一名优秀的程序员。总之，今天的智慧是成为一名终身学习者，建立强大的专业网络，并保持耐心。
